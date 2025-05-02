@@ -1,0 +1,2 @@
+# artifactory
+artifactory on AWS
